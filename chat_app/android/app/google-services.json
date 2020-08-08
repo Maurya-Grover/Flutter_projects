@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300703039390",
+    "firebase_url": "https://flash-chat-19192.firebaseio.com",
+    "project_id": "flash-chat-19192",
+    "storage_bucket": "flash-chat-19192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300703039390:android:74db0547147937e0",
+        "android_client_info": {
+          "package_name": "com.maurya.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300703039390-bov5a25qbq4mrq8a84mr6k2t5e70d8hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6Cr_vEznX3Cx23HZB30xWCfXqeAm1aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300703039390-bov5a25qbq4mrq8a84mr6k2t5e70d8hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
