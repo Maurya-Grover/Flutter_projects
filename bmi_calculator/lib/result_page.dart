@@ -1,5 +1,5 @@
 import 'package:bmi_calculator/resources.dart';
-import 'package:flutter/cupertino.dart';
+// import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'constants.dart';
 
